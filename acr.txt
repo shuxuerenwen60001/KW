@@ -1,0 +1,41 @@
+appConfig := {
+ "bow": {
+  "bow_interval_time": 10,
+  "bow_max_count": 1,
+  "download_url": "",
+  "exclude": ["eb7330e363ceec8c6895eacc44a1a804"],
+  "height": 218,
+  "threshold": 0.8,
+  "upload_interval": 60,
+  "vote_count": 0,
+  "width": 568,
+  "x": 30,
+  "y": 16
+ },
+ "error_code": 1000,
+ "identify": {
+  "audio_detect": 1,
+  "audio_duration": 500,
+  "audio_threshold": 33,
+  "auto_search": 1,
+  "auto_search_interval_time": 20,
+  "infrared_detect": 1,
+  "infrared_interval": 5,
+  "screenshot_interval_time": 20,
+  "screenshot_max_count": 1,
+  "service_status": 1
+ },
+ "identify_id": "a430cdf7d60d4012b1eb789208981924",
+ "img": {
+  "img_alignmentX": 960,
+  "img_alignmentY": 540,
+  "img_height": 600,
+  "img_width": 800
+ },
+ "
+ report": {
+  "report_interval": 30,
+  "timediff_expiretime": 60
+ },
+ "server_time": 1534129534402
+}
